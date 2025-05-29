@@ -77,6 +77,3 @@ Dinh 3 : Mau 1
 - Các đỉnh được đánh số từ `0`.
 - Đảm bảo rằng dữ liệu trong `color.txt` đúng định dạng.
 
-## 📜 Giấy phép
-
-Chương trình được cung cấp miễn phí cho mục đích học tập và nghiên cứu.
