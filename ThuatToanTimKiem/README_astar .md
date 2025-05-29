@@ -89,6 +89,3 @@ Tại mỗi bước, thuật toán chọn đỉnh có giá trị `f(n)` nhỏ nh
 - Thuật toán áp dụng cho đồ thị vô hướng.
 - Heuristic cần **không vượt quá chi phí thực tế còn lại** (tính chất admissible) để đảm bảo tìm được đường đi tối ưu.
 
-## 📜 Giấy phép
-
-Chương trình được cung cấp miễn phí cho mục đích học tập và nghiên cứu.
